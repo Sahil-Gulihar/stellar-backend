@@ -2,7 +2,8 @@
 
 
 This repository contains a smart contract implementation for a token on the Stellar network, built using the Soroban SDK. The project is organized into several Rust modules, each handling different aspects of the token's functionality.
-Contract Deployment
+
+# Contract Deployment
 
 This is the actual contract deployed on the Stellar blockchain with the ID: CDJDZ4D27GR4ZBZCTSVC5ZACDINKXHVVNNW3JUMS5H5HPMYLSEU77HLH. You can interact with the contract using this ID on the Stellar network.
 
